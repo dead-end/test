@@ -1,2 +1,2 @@
 # test
-fastforward after
+fastforward before
